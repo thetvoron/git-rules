@@ -5,8 +5,8 @@
 - `git tag` — вывести список тегов
 - `git tag <tagname>` — создать тег
 - `git branch` — вывести список локальных веток
-1. `git branch -av` — вывести список локальных и удаленных веток
-2. `git branch <branchname>` — создать ветку
+- `git branch -av` — вывести список локальных и удаленных веток
+- `git branch <branchname>` — создать ветку
 - `git branch -d <branchname>` — удалить ветку
 - `git checkout <commit>` или `git switch --detach <commit|branch>` — переместить HEAD на коммит, причем получится detached HEAD
 - `git checkout <branch>`или `git switch <branch>` — переместить HEAD на ветку
